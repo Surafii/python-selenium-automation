@@ -1,0 +1,15 @@
+#Locator for the Amazon Logo
+
+$x("//div[@class='a-section a-spacing-medium a-text-center']//i[@class='a-icon a-icon-logo']")
+
+#Locator For continue
+
+$x("//input[@id='continue']")
+
+#Locator for Need Help
+
+$x("//a[@href='javascript:void(0)']//span[@class='a-expander-prompt']")
+
+#Locator for create your Amazon Account Button
+
+$x("//span[@class='a-button-inner']/a[@id='createAccountSubmit']")
